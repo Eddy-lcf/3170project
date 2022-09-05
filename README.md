@@ -8,3 +8,6 @@ Java
 
 Tools:
 MySQL database system with JDBC API
+
+Credit:
+This Project is done by Eddy, Pak and Kenny
